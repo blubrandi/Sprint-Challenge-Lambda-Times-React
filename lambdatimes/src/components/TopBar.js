@@ -11,6 +11,7 @@ const SiteTopBar = styled.div`
   position: fixed;
   height: 44px;
   background-color: #333;
+  top: 0;
 
 container {
   width: 100%;
